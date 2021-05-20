@@ -1,2 +1,2 @@
 # oauth2-java
-OAuth2 with Java
+OAuth2 with Java Google
